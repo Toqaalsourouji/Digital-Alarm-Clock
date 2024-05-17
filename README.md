@@ -27,7 +27,7 @@ This project implements a digital alarm clock using Verilog. The design is targe
   - **risingEdgeDet.v**: Rising edge detection module.
   - **SevenSegment.v**: Seven-segment display module.
   - **Synchronizer.v**: Synchronizer module.
-- **constraints/**: Contains the Xilinx Design Constraints file.
+- **constraints**: Contains the Xilinx Design Constraints file.
   - **DigitalAlarmClock_C.xdc**: Constraints file for the digital alarm clock.
 - **README.md**: Project documentation.
 - **.gitignore**: Git ignore file to exclude unnecessary files.
