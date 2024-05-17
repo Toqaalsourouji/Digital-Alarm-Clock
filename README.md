@@ -1,8 +1,8 @@
-# 🎯 **Digital Alarm Clock** ⏰
+# **Digital Alarm Clock** ⏰
 
 This project implements a digital alarm clock using Verilog. The design is targeted for the BASYS3 FPGA board and includes several modules for handling different functionalities.
 
-## 🧑‍🤝‍🧑 **Group Members**
+## 👥 **Group Members**
 
 - **Adham Gohar**
 - **Toqa Hassanein**
