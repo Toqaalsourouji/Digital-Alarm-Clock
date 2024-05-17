@@ -10,12 +10,12 @@ This project implements a digital alarm clock using Verilog. The design is targe
 
 ## Project Structure
 
-- **Diagrams/**: Contains design diagrams.
+- **Diagrams**: Contains design diagrams.
   - **ASM_Design.png**: ASM design diagram.
   - **Block_Diagram.png**: Block diagram of the project.
   - **FSM_Design.png**: FSM design diagram.
-- **Logisim_Evolution_Design/**: Placeholder for Logisim Evolution design files.
-- **src/**: Contains the Verilog source files for different modules.
+- **Logisim_Evolution_Design**: Placeholder for Logisim Evolution design files.
+- **src**: Contains the Verilog source files for different modules.
   - **ClockDiv.v**: Clock divider module.
   - **Debouncer.v**: Debouncer module.
   - **DigitalAlarmClock.v**: Main digital alarm clock module.
