@@ -49,10 +49,3 @@ This project implements a digital alarm clock using Verilog. The design is targe
 
 To get started with this project, clone the repository and navigate to the `src` directory to view the source files.
 
-## Contributing
-
-Feel free to fork the repository and submit pull requests for any improvements or bug fixes.
-
-## License
-
-This project is licensed under the MIT License.
